@@ -81,8 +81,8 @@ theme: yelee
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repository: git@github.com:zhangqianrong/zhangqianrong.github.io.git
-          
+#repository: git@github.com:zhangqianrong/zhangqianrong.github.io.git
+  repository: git@git.coding.net:zqRong/hexoblog.git     
   branch: master
   
 
